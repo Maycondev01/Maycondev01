@@ -20,8 +20,6 @@ I'm a student and passionate about technology, my goal is to be a Full stack Jav
 <div style="display: inline_block"> <strong> Back-End (I Love) </strong> <br>
   <img align="center" height="30" width="40" src='https://thiagoalmeida.com.br/img/node.94cafb0d.svg'/>
   <img align="center" height="30" width="40" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png'/>
-  <img align="center" height="30" width="40" src='https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png'/>
-  <img align="center" height="30" width="40" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'/>
 </div>
 
 <div align="center">
