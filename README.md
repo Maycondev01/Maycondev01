@@ -22,8 +22,3 @@ I'm a student and passionate about technology, my goal is to be a Full stack Jav
   <img align="center" height="30" width="40" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png'/>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/maycondev01/maycondev01/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
