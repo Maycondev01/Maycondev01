@@ -18,7 +18,7 @@ I'm a student and passionate about technology, my goal is to be a Full stack Jav
 ##
 
 <div style="display: inline_block"> <strong> Back-End (I Love) </strong> <br>
-  <img align="center" height="30" width="40" src='https://cdn.imgbin.com/25/6/19/imgbin-web-development-node-js-socket-io-javascript-network-socket-modernization-Sr0hTsLVaFu6MFPMMkeNKUEaH.jpg'/>
+  <img align="center" height="30" width="40" src='https://o.remove.bg/downloads/0b5a4e54-0e86-4ee2-912a-c02a2f1de19f/imgbin-web-development-node-js-socket-io-javascript-network-socket-modernization-Sr0hTsLVaFu6MFPMMkeNKUEaH-removebg-preview.png'/>
   <img align="center" height="30" width="40" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png'/>
   <img align="center" height="30" widht="40" src='https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png' />
  <img align="center" height="30" widht="40" src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg' />
