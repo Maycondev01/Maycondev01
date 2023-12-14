@@ -1,7 +1,7 @@
 ### Hello 👋, my name is Maycon.
 
 <h3>
-I'm a student and passionate about technology, my goal is to be a Full stack Javascript Developer. I started with Python in 2020 and discovered Javascript in 2021 since then I've been studying about this amazing language where I want to specialize more and more.
+I'm a student and passionate about technology. My goal is to be a Full stack Javascript Developer. I started with Python in 2020 and discovered Javascript in 2021 since then I've been studying about this amazing language where I want to specialize more and more.
 </h3>
 
  <h3> Web developer:</h3>
